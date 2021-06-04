@@ -1,5 +1,4 @@
 import os
-os.chdir(r'D:\yaoli\adv_jive')
 import torch
 import numpy as np
 import eagerpy as ep
