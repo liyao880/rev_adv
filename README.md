@@ -9,6 +9,11 @@
 - jive
 - explore
 
+To install art and foolbox, see the following links:
+art: https://github.com/Trusted-AI/adversarial-robustness-toolbox/wiki/Get-Started#setup
+
+foolbox: https://github.com/bethgelab/foolbox
+
 To install explore and jive:
 ```
 git clone https://github.com/idc9/py_jive.git
