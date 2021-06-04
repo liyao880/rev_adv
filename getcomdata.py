@@ -1,4 +1,3 @@
-# cd /Users/yaoli/Documents/ACADEMIC/DeepLearning/10Adv_jive
 import random
 import numpy as np
 
